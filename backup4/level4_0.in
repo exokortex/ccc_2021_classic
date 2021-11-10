@@ -1,0 +1,16 @@
+9
+start
+    postpone
+        postpone
+            print 1
+        end
+        print 2
+    end
+    postpone
+        postpone
+            print 3
+        end
+        print 4
+    end
+    print 5
+end

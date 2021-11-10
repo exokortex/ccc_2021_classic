@@ -1,0 +1,7 @@
+1337
+start 
+postpone print 3 end 
+if true postpone postpone print 0 end print 1 end end 
+else end 
+print 2
+end
